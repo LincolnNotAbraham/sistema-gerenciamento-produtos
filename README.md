@@ -2,6 +2,8 @@
 
 Um sistema desktop simples para cadastro e gerenciamento de produtos usando Python, Tkinter e SQLite.
 
+![Captura de tela 2025-06-30 223301](https://github.com/user-attachments/assets/f2111280-2d67-4d6a-9f40-675a2b198cac)
+
 ## 📋 Funcionalidades
 
 - ✅ Sistema de login e cadastro de usuários
@@ -36,6 +38,8 @@ Um sistema desktop simples para cadastro e gerenciamento de produtos usando Pyth
    - O banco de dados será criado automaticamente na primeira execução
    - Um usuário padrão será criado: **admin** / senha: **123**
    - Você pode criar novos usuários usando a tela de cadastro
+![Captura de tela 2025-06-30 223007](https://github.com/user-attachments/assets/46954f52-5baf-4759-b413-16612cacc7e8)
+![Captura de tela 2025-06-30 223014](https://github.com/user-attachments/assets/7bf676f4-53c1-429a-933b-7061103f7466)
 
 ## 📁 Estrutura do projeto
 
@@ -56,10 +60,9 @@ sqlpython/
 - **Tkinter** - Interface gráfica
 - **SQLite** - Banco de dados
 
-## 👤 Usuário padrão
 
-- **Usuário:** admin
-- **Senha:** 123
+![Captura de tela 2025-06-30 223035](https://github.com/user-attachments/assets/4e2e293d-5f2e-49fe-8885-aba9070af728)
+![Captura de tela 2025-06-30 223307](https://github.com/user-attachments/assets/6431e51c-9d1f-4023-907d-2afec74a3d14)
 
 ## 📝 Como contribuir
 
