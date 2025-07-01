@@ -38,7 +38,11 @@ Um sistema desktop simples para cadastro e gerenciamento de produtos usando Pyth
    - O banco de dados será criado automaticamente na primeira execução
    - Um usuário padrão será criado: **admin** / senha: **123**
    - Você pode criar novos usuários usando a tela de cadastro
+  
+
+
 ![Captura de tela 2025-06-30 223007](https://github.com/user-attachments/assets/46954f52-5baf-4759-b413-16612cacc7e8)
+
 ![Captura de tela 2025-06-30 223014](https://github.com/user-attachments/assets/7bf676f4-53c1-429a-933b-7061103f7466)
 
 ## 📁 Estrutura do projeto
