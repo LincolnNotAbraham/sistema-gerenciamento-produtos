@@ -1,0 +1,43 @@
+# Banco de dados (será criado automaticamente)
+*.db
+*.sqlite
+*.sqlite3
+
+# Arquivos Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+
+# Ambiente virtual
+venv/
+env/
+ENV/
+.venv/
+
+# IDE e Editores
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Sistema Operacional
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Logs
+*.log
+
+# Configurações locais
+config.local.py
+.env
