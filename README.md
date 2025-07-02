@@ -24,8 +24,8 @@ Um sistema desktop simples para cadastro e gerenciamento de produtos usando Pyth
 1. **Clone o repositório:**
 
    ```bash
-   git clone [seu-repositório]
-   cd sqlpython
+   git clone https://github.com/LincolnNotAbraham/sistema-gerenciamento-produtos
+   
    ```
 
 2. **Execute o sistema:**
@@ -36,7 +36,6 @@ Um sistema desktop simples para cadastro e gerenciamento de produtos usando Pyth
 
 3. **Primeiro uso:**
    - O banco de dados será criado automaticamente na primeira execução
-   - Um usuário padrão será criado: **admin** / senha: **123**
    - Você pode criar novos usuários usando a tela de cadastro
   
 
